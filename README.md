@@ -7,6 +7,11 @@ increasing diversity.
 Authored by the community, at
 https://github.com/drnikki/diversity-survey
 
+## Goals
+
+* 10,000 unique respones
+* 100 Colloaborators
+
 ## Timeline
 Here's what we're hoping to do:
 
@@ -54,8 +59,11 @@ Possible problems: skewing the data with ‘content editors’ or ‘copywriters
 * Data Integrity issues (i.e. multiple responses from same person)
 
 ## How to Contribute
+* Star the github repo to show your support!
+# Tweet/reweet to help promote!
 * Fork and PR!
 * Contact @drnikki or @nstielau
+* Simply have converstations about diversity, why it's important, and how we can improve it!
 
 ## Oops! / Ouch! Policy
 Talking about diversity can be hard, but we believe talking is first step for
