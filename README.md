@@ -61,6 +61,17 @@ indvidual (hopefully the survey provider can handle this).
 * Not doing it at all
 * No one is leading/driving it
 
+## How to Contribute
+* Fork and PR!
+* Contact @drnikki or @nstielau
+
+## Oops! / Ouch! Policy
+Talking about diversity can be hard, but we believe talking is first step for
+improvement.  As such, we need some room to make mistakes, and to give clear
+feedback when a discussion/approach/idea/term is hurtful.  Say 'Oops!' if you
+catch yourself on potentially offensive territory, and 'Ouch!' if you feel
+offended.  Thanks!
+
 ## Next Steps:
 * Find survey drafters and reviewers
 * Find organizations that will distribute to their mailing lists
