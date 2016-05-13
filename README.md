@@ -53,6 +53,18 @@ Here's what we're hoping to do:
 * Web shop, ad agency, internal dev team
 * Vertical: higher-ed, non-profit, tech, media, etc
 * Location
+* Language
+* Religion
+* LGBT
+* Education Background
+* Disabilities
+* Age
+* Relationship status?
+* Children?
+* Does employee retention/tenure correlate to diversity
+* Does management's activity in diversity correlate with employee rentention?
+* Does having a strong mission correct with increased diversity?
+
 
 ## Simple ways to Fail:
 * Not doing it at all
@@ -82,3 +94,5 @@ offended.  Thanks!
 ## References:
 * http://www.informationisbeautiful.net/visualizations/diversity-in-tech/
 * http://graphics.wsj.com/diversity-in-tech-companies/
+* [Berkeley Diversity Survey Questions](http://diversity.berkeley.edu/sites/default/files/Appendix_A.pdf)
+* [Society for Human Resources Management Diversity Survey Questions](https://www.shrm.org/templatestools/samples/hrforms/pages/diversitysurveys.aspx)
