@@ -8,9 +8,14 @@ Authored by the community, at
 https://github.com/drnikki/diversity-survey
 
 ## Goals
+* 10,000 unique responses
+* 1,000 Github stars
+* 100 Collaborators
 
-* 10,000 unique respones
-* 100 Colloaborators
+## Survey Participants:
+Anyone who identifies with ‘moving the web forward’ or ‘making the internet’.
+This includes roles like sysadmin, project manager, shop owner, designer, UX,
+etc.  Possible problems: skewing the data with ‘content editors’ or ‘copywriters’
 
 ## Timeline
 Here's what we're hoping to do:
@@ -20,11 +25,6 @@ Here's what we're hoping to do:
 * July '16: Wait for results, promote
 * August '16: Collect results, publish, event to analyze
 * September '16: DrupalCon Dublin: Presentation
-
-## Survey Participants:
-Anyone who identifies with ‘moving the web forward’ or ‘making the internet’
-Roles like: sysadmin, project manager, shop owner, designer, UX, etc.
-Possible problems: skewing the data with ‘content editors’ or ‘copywriters’
 
 ## Methods
 * Draft Survey
@@ -47,10 +47,12 @@ Possible problems: skewing the data with ‘content editors’ or ‘copywriters
 * Pantheon (Nick Stielau)
 * Academic qualitative researchers (Nikki to contact)
 
-## Potential Comparisons
-* Web vs. ‘Tech’
-* Web vs. Fortune 50
-* Small vs. Large
+## Potential Comparisons / Dimensions
+* Role (PM, Dev, Owner, TPM, etc)
+* Size of company (0-20, 21-50, 51-150?)
+* Web shop, ad agency, internal dev team
+* Vertical: higher-ed, non-profit, tech, media, etc
+* Location
 
 ## Simple ways to Fail:
 * Not doing it at all
@@ -60,7 +62,7 @@ Possible problems: skewing the data with ‘content editors’ or ‘copywriters
 
 ## How to Contribute
 * Star the github repo to show your support!
-# Tweet/reweet to help promote!
+* Tweet/reweet to help promote!
 * Fork and PR!
 * Contact @drnikki or @nstielau
 * Simply have converstations about diversity, why it's important, and how we can improve it!
