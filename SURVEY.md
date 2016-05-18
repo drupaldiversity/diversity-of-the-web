@@ -1,4 +1,3 @@
-
 ## Survey
 A first pass at survey categories and areas about which we want to obtain information.
 
@@ -11,6 +10,7 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
     () Trans F-M
     () Genderqueer
     () Male
+    () Female
     () Decline to state
     [___________] Self-identify
 
@@ -30,6 +30,7 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
     () Decline to state
 
 ### Language
+How do we want people to indicate their language?
     Choose the language(s) you speak and work with and identify your proficiency
     [___________|v]      [___________|v]
     (list of languages)  (fluency levels)
@@ -38,6 +39,7 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
 
 ### Racial Identification
 Allowing people to check all labels with which they identify would be good.
+
     Choose the racial identities (phrasing!) with which you identify
 
     - combo box of words (tbd)
