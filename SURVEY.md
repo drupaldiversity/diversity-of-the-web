@@ -10,35 +10,42 @@ surveys are out there that we can learn from.
 A first pass at survey categories and areas about which we want to obtain information.
 
 ### Gender Identification
-What is your gender identity?
-() Intersex
-() Trans M-F
-() Trans F-M
-() Genderqueer
-() Male
-() Decline to state
-[___________] Self-identify
+    What is your gender identity?
+    () Intersex
+    () Trans M-F
+    () Trans F-M
+    () Genderqueer
+    () Male
+    () Decline to state
+    [___________] Self-identify
 
 ### Age
-What is your age range?
-() under 18
-() 18-25
-() 25-30
-() 31-35
-() 35-40
-() 40-45
-() 45-50
-() 50-55
-() 55-60
-() 60-65
-@todo where is the cutoff? are these the brackets we want?
-() Decline to state
+    What is your age range?
+    () under 18
+    () 18-25
+    () 25-30
+    () 31-35
+    () 35-40
+    () 40-45
+    () 45-50
+    () 50-55
+    () 55-60
+    () 60-65
+    @todo where is the cutoff? are these the brackets we want?
+    () Decline to state
 
 ### Language
-It would be useful to allow people to select the language(s) that they speak natively and any others with which they're familiar/work with.
+    Choose the language(s) you speak and work with and identify your proficiency
+    [___________|v]      [___________|v]
+    (list of languages)  (fluency levels)
+
+    add as many as appropriate.
 
 ### Racial Identification
 Allowing people to check all labels with which they identify would be good.
+    Choose the racial identities (phrasing!) with which you identify
+
+    - combo box of words (tbd)
 
 ### Position
 Should we allow people to choose all labels which describe their job, or limit them to n?
@@ -51,6 +58,9 @@ Do we want people to share their disability identification?
 
 
 # Survey conventions
-() represent radio buttons
-[] represent check boxes
-[___________] represent fill-in-the-blank
+
+    ()  radio buttons
+    []  check boxes
+    [___________]  fill-in-the-blank
+    [___________|v] drop-down select one
+    ??? combo box/select many
