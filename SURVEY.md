@@ -57,6 +57,17 @@ Do we want people to share their geographic locations?
 Do we want people to share their disability identification?
 
 
+### Post-survey CTAs
+    If you'd be willing to participate in a semi-structured interview about your experiences
+    [Link to new form not tied to participant's data]
+
+    If you're interested in being notified when the data is released
+    [Link to new form not tied to participant's data]
+
+    If you're interested in being a part of the diversity working group mailing list
+    [Link to new form not tied to participant's data]
+
+
 # Survey conventions
 
     ()  radio buttons
