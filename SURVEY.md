@@ -48,11 +48,24 @@ Allowing people to check all labels with which they identify would be good.
 Should we allow people to choose all labels which describe their job, or limit them to _n_?
 
 ### Location
-Do we want people to share their geographic locations?
+Do we want people to share their geographic locations? (Yes)
 
-### Dis/ability
-Do we want people to share their disability identification?
+### Disability
+Do we want people to share their disability identification? (Yes)
+    
+    Do you identify as having a disability?
+    () Yes
+        () Physical
+        () Mental
+        () Emotional
+        () Hearing
+        () Vision
+        () Other
+    () No
+    () Prefer not to answer
 
+### Salary
+Are we going to add this in to the survey?
 
 ### Post-survey CTAs
     - If you'd be willing to participate in a semi-structured interview about your experiences
