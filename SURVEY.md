@@ -3,6 +3,16 @@ A first pass at survey categories and areas about which we want to obtain inform
 
 We need to figure out pagination, order, pacing, and reasonable length, in addition to the questions and answer formats.
 
+Have you heard of the "big 8" aspects of diversity? Including this here for consideration of other questions to include if you want to be "fully" comprehensive.
+    1. Ability - Mental and/or physical (addressed)
+    2. Age (addressed)
+    3. Ethnicity (addressed)
+    4. Gender (addressed)
+    5. Race (addressed)
+    6. Religion
+    7. Sexual Orientation
+    8. Socio-Economic Status/Class
+
 ### Gender Identification
     What is your gender identity?
     () Intersex
@@ -45,14 +55,24 @@ Allowing people to check all labels with which they identify would be good.
     - combo box of words (tbd)
 
 ### Position
-Should we allow people to choose all labels which describe their job, or limit them to _n_?
+Should we allow people to choose all labels which describe their job, or limit them to _n_? (Include an 'Other'). Can also consider years of experience.
 
 ### Location
-Do we want people to share their geographic locations?
+Do we want people to share their geographic locations? (Or ethnicity... Or two questions on ethnicity AND current location by country)
 
-### Dis/ability
-Do we want people to share their disability identification?
-
+### Disability
+Do we want people to share their disability identification? (Yes)
+    
+    Do you identify as having a disability?
+    () Yes
+        () Physical
+        () Mental
+        () Emotional
+        () Hearing
+        () Vision
+        () Other
+    () No
+    () Prefer not to answer
 
 ### Post-survey CTAs
     - If you'd be willing to participate in a semi-structured interview about your experiences
