@@ -12,6 +12,12 @@ https://github.com/drnikki/diversity-survey
 * 1,000 Github stars
 * 100 Collaborators
 
+## WHAT WE NEED RIGHT NOW
+
+* People to support (tweet, star on github)
+* People interested in helping author (github PRs, issues)
+* Companies with email lists willing to support and promote the survey (when ready)
+
 ## Survey Participants:
 Anyone who identifies with ‘moving the web forward’ or ‘making the internet’.
 This includes roles like sysadmin, project manager, shop owner, designer, UX,
