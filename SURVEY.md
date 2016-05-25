@@ -63,7 +63,7 @@ Do we want people to share their geographic locations? (Or ethnicity... Or two q
 ### Disability
 Do we want people to share their disability identification? (Yes)
     
-    Do you identify as having a disability as defined under the Disability Discrimination Act?
+    Do you identify as having a disability as defined under the [Americans with Disabilities Act](https://adata.org/faq/what-definition-disability-under-ada)?
     () Yes
         [] Physical
         [] Mental
