@@ -65,12 +65,12 @@ Do we want people to share their disability identification? (Yes)
     
     Do you identify as having a disability?
     () Yes
-        () Physical
-        () Mental
-        () Emotional
-        () Hearing
-        () Vision
-        () Other
+        [] Physical
+        [] Mental
+        [] Emotional
+        [] Hearing
+        [] Vision
+        [] Other
     () No
     () Prefer not to answer
 
