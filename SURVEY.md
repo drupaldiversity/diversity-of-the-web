@@ -63,17 +63,30 @@ Do we want people to share their geographic locations? (Or ethnicity... Or two q
 ### Disability
 Do we want people to share their disability identification? (Yes)
     
-    Do you identify as having a disability?
+    Do you identify as having a disability as defined under the Disability Discrimination Act?
     () Yes
         [] Physical
         [] Mental
         [] Emotional
+        [] Cognitive 
         [] Hearing
         [] Vision
         [] Other
     () No
     () Prefer not to answer
-
+    
+    If you answered yes to the above question: 
+    Do you have any special needs or additional learning support requirements? 
+    () Yes
+    () No
+    () Prefer not to answer
+    
+    Does your disability affect how you work?
+    () Yes
+    () No
+    () Prefer not to answer
+    
+    
 ### Post-survey CTAs
     - If you'd be willing to participate in a semi-structured interview about your experiences
     [Link to new form not tied to participant's data]
