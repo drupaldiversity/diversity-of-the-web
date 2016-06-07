@@ -55,13 +55,13 @@ How do we want people to indicate their language?
 
     With which ethnicity do you most identify (from Information is Beautiful [2])?
 
-    () White
-    () Asian
-    () Latino
-    () Black
-    () Multi
-    () Other
-    () Decline
+    [] White
+    [] Asian
+    [] Latino
+    [] Black
+    [] Multi
+    [] Other
+    [] Decline
 
 ### Position
 Should we allow people to choose all labels which describe their job, or limit them to _n_? (Include an 'Other'). Can also consider years of experience.
