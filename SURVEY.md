@@ -48,11 +48,20 @@ How do we want people to indicate their language?
     add as many as appropriate.
 
 ### Racial Identification
-Allowing people to check all labels with which they identify would be good.
+    Do you identify as a person of color? (e.g. African, Latino/Hispanic, Asian, South Asian, Native American, Middle Eastern, Pacific Islander [1])
 
-    Choose the racial identities (phrasing!) with which you identify
+    () Yes
+    () No
 
-    - combo box of words (tbd)
+    With which ethnicity do you most identify (from Information is Beautiful [2])?
+
+    [] White
+    [] Asian
+    [] Latino
+    [] Black
+    [] Multi
+    [] Other
+    [] Decline
 
 ### Position
 Should we allow people to choose all labels which describe their job, or limit them to _n_? (Include an 'Other'). Can also consider years of experience.
@@ -105,3 +114,6 @@ Do we want people to share their disability identification? (Yes)
     [___________]  fill-in-the-blank
     [___________|v] drop-down select one
     ??? combo box/select many
+
+[1] http://www.isdnetwork.org/what-is-diversity.html
+[2] http://www.informationisbeautiful.net/visualizations/diversity-in-tech/
