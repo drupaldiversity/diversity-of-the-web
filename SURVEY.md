@@ -90,13 +90,6 @@ Do we want people to share their disability identification? (Yes)
     [] Other
     [] Decline
 
-### Religious Identification
-
-    Do you identify as a religious person?
-
-    () Yes
-    () No
-
 ## Other facets
 
 ### Location
