@@ -47,9 +47,6 @@ Here's what we're hoping to do:
 * (possibly) Propose recommendations for Drupal Association
 
 ## Potential Allies
-* Jesse Beach:  Facebook, former Druplista
-* Blackmesh: Cathy Theys
-* Fureigh: 18F, Drupalista
 * Pantheon (Nick Stielau)
 * Academic qualitative researchers (Nikki to contact)
 
