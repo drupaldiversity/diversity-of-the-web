@@ -82,6 +82,8 @@ Here's what we're hoping to do:
 * Contact @drnikki or @nstielau
 * Simply have converstations about diversity, why it's important, and how we can improve it!
 
+*If you want to contribute, but don't have a github account or are uncomfortable with the github contribution process, please reach out to Nikki in any of the following ways: @drnikki on twitter, the drupal slack channel and IRC or shoot an email to nikki@drnikki.org and we can figure out an accessible way for you to help!*
+
 ## Oops! / Ouch! Policy
 Talking about diversity can be hard, but we believe talking is first step for
 improvement.  As such, we need some room to make mistakes, and to give clear
@@ -92,7 +94,7 @@ offended.  Thanks!
 ## Next Steps:
 * Find survey drafters and reviewers
 * Find organizations that will distribute to their mailing lists
-* June 15, 4pm PST next meeting.
+* June 29, 2pm PST next meeting.
 
 ## References:
 * http://www.informationisbeautiful.net/visualizations/diversity-in-tech/
