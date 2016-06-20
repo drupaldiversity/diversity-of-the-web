@@ -90,6 +90,17 @@ Do we want people to share their disability identification? (Yes)
     [] Other
     [] Decline
 
+### Sexual Orientation
+
+  Do you identify with any of the following? Check all that apply.
+  [] Straight
+  [] Gay
+  [] Lesbian
+  [] Bisexual
+  [] Cisgender (You are comfortable in the gender you were assigned at birth)
+  [] Transgender (You are not comfortable in the gender you were assigned at birth)
+  [] Self Identify: _________________
+
 ## Other facets
 
 ### Location
