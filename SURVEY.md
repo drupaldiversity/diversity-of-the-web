@@ -82,12 +82,12 @@ Do we want people to share their disability identification? (Yes)
 ### Sexual Orientation
 
   Do you identify with any of the following? Check all that apply.
-  [] Straight
-  [] Gay
-  [] Lesbian
-  [] Bisexual  
-  [] Self Identify: _________________
-  [] Decline to state  
+  () Straight
+  () Gay
+  () Lesbian
+  () Bisexual  
+  () Self Identify: _________________
+  () Decline to state  
 
 ### Gender Identification
   What is your gender identity?
