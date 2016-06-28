@@ -63,17 +63,6 @@ Do we want people to share their disability identification? (Yes)
     () Decline to state
 
 
-### Gender Identification
-    What is your gender identity?
-    () Intersex
-    () Trans M-F
-    () Trans F-M
-    () Genderqueer
-    () Male
-    () Female
-    () Decline to state
-    [___________] Self-identify
-
 ### Racial Identification
     Do you identify as a person of color? (e.g. African, Latino/Hispanic, Asian, South Asian, Native American, Middle Eastern, Pacific Islander [1])
 
@@ -96,10 +85,20 @@ Do we want people to share their disability identification? (Yes)
   [] Straight
   [] Gay
   [] Lesbian
-  [] Bisexual
-  [] Cisgender (You are comfortable in the gender you were assigned at birth)
-  [] Transgender (You are not comfortable in the gender you were assigned at birth)
+  [] Bisexual  
   [] Self Identify: _________________
+  [] Decline to state  
+
+### Gender Identification
+  What is your gender identity?
+  () Intersex
+  () Trans M-F
+  () Trans F-M
+  () Genderqueer
+  () Male
+  () Female
+  () Decline to state
+  [___________] Self-identify
 
 ## Other facets
 
