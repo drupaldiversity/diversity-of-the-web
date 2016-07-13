@@ -49,17 +49,15 @@ Do we want people to share their disability identification? (Yes)
 
 ### Age
     What is your age range?
-    () under 18
-    () 18-25
-    () 25-30
-    () 31-35
-    () 35-40
-    () 40-45
-    () 45-50
-    () 50-55
-    () 55-60
-    () 60-65
-    @todo where is the cutoff? are these the brackets we want?
+    () 0-15
+    () 16-24
+    () 25-34
+    () 35-44
+    () 45-54
+    () 55-64
+    () 65-74
+    () 75-84
+    () 85+
     () Decline to state
 
 
@@ -85,7 +83,9 @@ Do we want people to share their disability identification? (Yes)
   () Straight
   () Gay
   () Lesbian
-  () Bisexual  
+  () Bisexual
+  () Queer
+  () Asexual 
   () Self Identify: _________________
   () Decline to state  
 
@@ -99,6 +99,13 @@ Do we want people to share their disability identification? (Yes)
   () Female
   () Decline to state
   [___________] Self-identify
+
+### Religious Identification
+
+    Do you identify as a religious person?
+
+    () Yes
+    () No
 
 ## Other facets
 
