@@ -108,12 +108,12 @@ Do we want people to share their disability identification? (Yes)
     [___________] Self-identify
 
 #### Gender Identification Expression
-  How do you express your Gender Identity?
-  () I have not expressed it to the World in any way
-  () I express my Gender Identity privately / only to trusted friends
-  () I express my Gender Identity in public only part of the time
-  () I express my Gender Identity in public permanently but do not discuss it
-  () I express my Gender Identity in public and discuss it openly
+    How do you express your Gender Identity?
+    () I have not expressed it to the World in any way
+    () I express my Gender Identity privately / only to trusted friends
+    () I express my Gender Identity in public only part of the time
+    () I express my Gender Identity in public permanently but do not discuss it
+    () I express my Gender Identity in public and discuss it openly
 
 ### Religious Identification
 
