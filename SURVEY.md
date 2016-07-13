@@ -85,9 +85,16 @@ Do we want people to share their disability identification? (Yes)
   () Lesbian
   () Bisexual
   () Queer
-  () Asexual 
+  () Asexual
   () Self Identify: _________________
   () Decline to state  
+
+#### Sexual Orientation Expression
+  How do you express your Sexual Orientation?
+  () I keep my sexual orientation entirely private
+  () I only let those I am interested in to know my Sexual Orientation
+  () I have declared publicly my Sexual Orientation but do not discuss it further
+  () I have declared publicly my Sexual Orientation and am quite open about it with others
 
 ### Gender Identification
   What is your gender identity?
@@ -99,6 +106,14 @@ Do we want people to share their disability identification? (Yes)
   () Female
   () Decline to state
   [___________] Self-identify
+
+#### Gender Identification Expression
+  How do you express your Gender Identity?
+  () I have not expressed it to the World in any way
+  () I express my Gender Identity privately / only to trusted friends
+  () I express my Gender Identity in public only part of the time
+  () I express my Gender Identity in public permanently but do not discuss it
+  () I express my Gender Identity in public and discuss it openly
 
 ### Religious Identification
 
