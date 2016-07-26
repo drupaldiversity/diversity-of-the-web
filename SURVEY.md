@@ -14,6 +14,7 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
     [] Technical Lead
     [] Content Strategist
     [] QA/Testing
+    [] Other
 
 
 ### Years of Experience
@@ -37,12 +38,12 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
 
 ### Type of Company
     What type of company do you work for (check all that apply?)
-    [] Web
-    [] Digital
-    [] Advertising
-    [] Development Shop
-    [] Non-technical organization
+    [] Web Agency / Development Shop
+    [] Digital Agency
+    [] Advertising Agency
+    [] Non-agency organization
     [] Freelancer
+    [] Other
 
 ### Education Level
     What is your education level?
