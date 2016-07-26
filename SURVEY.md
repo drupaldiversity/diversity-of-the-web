@@ -145,6 +145,10 @@ Do we want people to share their disability identification? (Yes)
     () Yes
     () No
 
+    If yes, do you identify as a minority because of your religion?
+    () Yes
+    () No
+
 ### Other facets
 
     At work, I feel comfortable expressing the aspects of my identity that are important to me.
