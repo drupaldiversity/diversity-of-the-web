@@ -6,7 +6,42 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
 ## How do you help build the internet?
 
 ### Position
-Should we allow people to choose all labels which describe their job, or limit them to _n_? (Include an 'Other'). Can also consider years of experience.
+What role do you play? (wording)
+[] Developer
+[] Designer
+[] UX
+[] Technical/Solutions Architect
+[] Technical Lead
+[] Content Strategist
+[] QA/Testing
+
+
+### Years of Experience
+() 0 - 5
+() 6 - 10
+() 11 - 15
+() 16 - 20
+() 20+
+
+### Company Size
+() Under 20 employees
+() 20 - 50 employees
+() 50 - 100 employees
+() 100 - 200 employees
+() 200+ employees
+
+### Location
+If you live in the US, please choose your state. |v| Dropdown of States |
+If you live outside of the US, please choose your country. |v| Dropdown of Countries |
+
+### Type of Company
+What type of company do you work for (check all that apply?)
+[] Web
+[] Digital
+[] Advertising
+[] Development Shop
+[] Non-technical organization
+[] Freelancer
 
 ## Big 8
 
@@ -85,7 +120,7 @@ Do we want people to share their disability identification? (Yes)
   () Lesbian
   () Bisexual
   () Queer
-  () Asexual 
+  () Asexual
   () Self Identify: _________________
   () Decline to state  
 
