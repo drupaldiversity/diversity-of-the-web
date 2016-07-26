@@ -151,7 +151,7 @@ Do we want people to share their disability identification? (Yes)
     () Yes
     () No
 
-## Other facets
+### Other facets
 
   At work, I feel comfortable expressing the aspects of my identity that are important to me.
   () Strongly Agree
@@ -166,6 +166,18 @@ Do we want people to share their disability identification? (Yes)
   () Neutral
   () Disagree
   () Strongly Disagree
+
+### Socio-economic class
+
+    Thinking about your childhood, which socio-economic class did you identify with?
+    () Lower class
+    () Middle class
+    () Upper class
+
+    Thinking about your current situation, which socio-economic class do you identify with?
+    () Lower class
+    () Middle class
+    () Upper class
 
 ### Language
 How do we want people to indicate their language?
