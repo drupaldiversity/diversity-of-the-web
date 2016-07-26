@@ -106,19 +106,19 @@ Do we want people to share their disability identification? (Yes)
     () Yes
     () No
 
-    With which ethnicity do you most identify (from Information is Beautiful [2])?
+    With which ethnicity do you identify? (check all that apply)
 
     [] White
     [] Asian
     [] Latino
     [] Black
-    [] Multi
+    [] Pacific Islander
     [] Other
     [] Decline
 
 ### Sexual Orientation
 
-    Do you identify with any of the following? Check all that apply.
+    Do you identify with any of the following? 
     () Straight
     () Gay
     () Lesbian
