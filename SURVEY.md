@@ -109,8 +109,22 @@ Do we want people to share their disability identification? (Yes)
 
 ## Other facets
 
-### Location
-Do we want people to share their geographic locations? (Or ethnicity... Or two questions on ethnicity AND current location by country)
+### TITLE HERE PLEASE
+  At work, I feel comfortable expressing the aspects of my identity that are important to me.
+  () Strongly Agree
+  () Agree
+  () Neutral
+  () Disagree
+  () Strongly Disagre
+  
+### TITLE HERE PLEASE
+  I feel like my workplace benefits from having people express the dimensions of their identities that are important to them.
+  () Strongly Agree
+  () Agree
+  () Neutral
+  () Disagree
+  () Strongly Disagre
+  
 
 ### Language
 How do we want people to indicate their language?
