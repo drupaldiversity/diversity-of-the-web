@@ -6,42 +6,51 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
 ## How do you help build the internet?
 
 ### Position
-What role do you play? (wording)
-[] Developer
-[] Designer
-[] UX
-[] Technical/Solutions Architect
-[] Technical Lead
-[] Content Strategist
-[] QA/Testing
+    What role do you play? (wording)
+    [] Developer
+    [] Designer
+    [] UX
+    [] Technical/Solutions Architect
+    [] Technical Lead
+    [] Content Strategist
+    [] QA/Testing
 
 
 ### Years of Experience
-() 0 - 5
-() 6 - 10
-() 11 - 15
-() 16 - 20
-() 20+
+    () 0 - 5
+    () 6 - 10
+    () 11 - 15
+    () 16 - 20
+    () 20+
 
 ### Company Size
-() Under 20 employees
-() 20 - 50 employees
-() 50 - 100 employees
-() 100 - 200 employees
-() 200+ employees
+    () Under 20 employees
+    () 20 - 50 employees
+    () 50 - 100 employees
+    () 100 - 200 employees
+    () 200+ employees
 
 ### Location
-If you live in the US, please choose your state. |v| Dropdown of States |
-If you live outside of the US, please choose your country. |v| Dropdown of Countries |
+    If you live in the US, please choose your state. |v| Dropdown of States |
+
+    If you live outside of the US, please choose your country. |v| Dropdown of Countries |
 
 ### Type of Company
-What type of company do you work for (check all that apply?)
-[] Web
-[] Digital
-[] Advertising
-[] Development Shop
-[] Non-technical organization
-[] Freelancer
+    What type of company do you work for (check all that apply?)
+    [] Web
+    [] Digital
+    [] Advertising
+    [] Development Shop
+    [] Non-technical organization
+    [] Freelancer
+
+### Education Level
+    What is your education level?
+    () Some high school
+    () Some college/technical training
+    () Completed college
+    () Completed master's degree
+    () Completed PhD
 
 ## Big 8
 
