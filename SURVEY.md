@@ -124,39 +124,33 @@ Do we want people to share their disability identification? (Yes)
 
 ### Sexual Orientation
 
-  Do you identify with any of the following? Check all that apply.
-  () Straight
-  () Gay
-  () Lesbian
-  () Bisexual
-  () Queer
-  () Asexual
-  () Self Identify: _________________
-  () Decline to state  
+    Do you identify with any of the following? Check all that apply.
+    () Straight
+    () Gay
+    () Lesbian
+    () Bisexual
+    () Queer
+    () Asexual
+    () Self Identify: _________________
+    () Decline to state  
 
 ### Gender Identification
-  What is your gender identity?
-  () Intersex
-  () Trans M-F
-  () Trans F-M
-  () Genderqueer
-  () Male
-  () Female
-  () Decline to state
-  [___________] Self-identify
+    What is your gender identity?
+    () Intersex
+    () Trans M-F
+    () Trans F-M
+    () Genderqueer
+    () Male
+    () Female
+    () Decline to state
+    [___________] Self-identify
 
 ### Religious Identification
 
     Do you identify as a religious person?
-
     () Yes
     () No
-
-## Other facets
-
-### Location
-Do we want people to share their geographic locations? (Or ethnicity... Or two questions on ethnicity AND current location by country)
-
+    
 ### Language
 How do we want people to indicate their language?
     Choose the language(s) you speak and work with and identify your proficiency
