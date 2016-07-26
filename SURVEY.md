@@ -167,7 +167,7 @@ Do we want people to share their disability identification? (Yes)
     () Disagree
     () Strongly Disagree
     
-    Having people express all aspects of their identities benefits my company.
+    Encouraging people to express all aspects of their identities benefits my company.
     () Strongly Agree
     () Agree
     () Neutral
