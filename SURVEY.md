@@ -81,12 +81,6 @@ Do we want people to share their disability identification? (Yes)
     () No
     () Prefer not to answer
 
-    If you answered yes to the above question:
-    Do you have any special needs or additional learning support requirements?
-    () Yes
-    () No
-    () Prefer not to answer
-
     Does your disability affect how you work?
     () Yes
     () No
