@@ -6,7 +6,52 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
 ## How do you help build the internet?
 
 ### Position
-Should we allow people to choose all labels which describe their job, or limit them to _n_? (Include an 'Other'). Can also consider years of experience.
+    What role do you play? (wording)
+    [] Developer
+    [] Designer
+    [] UX
+    [] Technical/Solutions Architect
+    [] Technical Lead
+    [] Content Strategist
+    [] QA/Testing
+    [] Other
+
+
+### Years of Experience
+    () 0 - 5
+    () 6 - 10
+    () 11 - 15
+    () 16 - 20
+    () 20+
+
+### Company Size
+    () Under 20 employees
+    () 20 - 50 employees
+    () 50 - 100 employees
+    () 100 - 200 employees
+    () 200+ employees
+
+### Location
+    If you live in the US, please choose your state. |v| Dropdown of States |
+
+    If you live outside of the US, please choose your country. |v| Dropdown of Countries |
+
+### Type of Company
+    What type of company do you work for (check all that apply?)
+    [] Web Agency / Development Shop
+    [] Digital Agency
+    [] Advertising Agency
+    [] Non-agency organization
+    [] Freelancer
+    [] Other
+
+### Education Level
+    What is your education level?
+    () Some high school
+    () Some college/technical training
+    () Completed college
+    () Completed master's degree
+    () Completed PhD
 
 ## Big 8
 
@@ -79,31 +124,30 @@ Do we want people to share their disability identification? (Yes)
 
 ### Sexual Orientation
 
-  Do you identify with any of the following? Check all that apply.
-  () Straight
-  () Gay
-  () Lesbian
-  () Bisexual
-  () Queer
-  () Asexual 
-  () Self Identify: _________________
-  () Decline to state  
+    Do you identify with any of the following? Check all that apply.
+    () Straight
+    () Gay
+    () Lesbian
+    () Bisexual
+    () Queer
+    () Asexual
+    () Self Identify: _________________
+    () Decline to state  
 
 ### Gender Identification
-  What is your gender identity?
-  () Intersex
-  () Trans M-F
-  () Trans F-M
-  () Genderqueer
-  () Male
-  () Female
-  () Decline to state
-  [___________] Self-identify
+    What is your gender identity?
+    () Intersex
+    () Trans M-F
+    () Trans F-M
+    () Genderqueer
+    () Male
+    () Female
+    () Decline to state
+    [___________] Self-identify
 
 ### Religious Identification
 
     Do you identify as a religious person?
-
     () Yes
     () No
 
@@ -114,15 +158,14 @@ Do we want people to share their disability identification? (Yes)
   () Agree
   () Neutral
   () Disagree
-  () Strongly Disagre
-  
+  () Strongly Disagree
+
   I feel like my workplace benefits from having people express the dimensions of their identities that are important to them.
   () Strongly Agree
   () Agree
   () Neutral
   () Disagree
-  () Strongly Disagre
-  
+  () Strongly Disagree
 
 ### Language
 How do we want people to indicate their language?
