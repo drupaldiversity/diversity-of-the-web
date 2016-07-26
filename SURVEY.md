@@ -106,6 +106,18 @@ Do we want people to share their disability identification? (Yes)
 
     () Yes
     () No
+    
+### Socio-economic class
+
+    Thinking about your childhood, which socio-economic class did you identify with?
+    () Lower class
+    () Middle class
+    () Upper class
+    
+    Thinking about your current situation, which socio-economic class do you identify with?
+    () Lower class
+    () Middle class
+    () Upper class
 
 ## Other facets
 
