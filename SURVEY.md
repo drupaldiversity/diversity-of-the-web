@@ -151,6 +151,29 @@ Do we want people to share their disability identification? (Yes)
     () Yes
     () No
 
+### Other facets
+
+    At work, I feel comfortable expressing the aspects of my identity that are important to me.
+    () Strongly Agree
+    () Agree
+    () Neutral
+    () Disagree
+    () Strongly Disagree
+    
+    At work, It's important to me that I feel comfortable expressing my identity.
+    () Strongly Agree
+    () Agree
+    () Neutral
+    () Disagree
+    () Strongly Disagree
+    
+    Encouraging people to express any/all aspects of their identities benefits my company.
+    () Strongly Agree
+    () Agree
+    () Neutral
+    () Disagree
+    () Strongly Disagree
+
 ### Socio-economic class
 
     Thinking about your childhood, which socio-economic class did you identify with?
