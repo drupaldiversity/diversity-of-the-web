@@ -109,7 +109,6 @@ Do we want people to share their disability identification? (Yes)
 
 ## Other facets
 
-### TITLE HERE PLEASE
   At work, I feel comfortable expressing the aspects of my identity that are important to me.
   () Strongly Agree
   () Agree
@@ -117,7 +116,6 @@ Do we want people to share their disability identification? (Yes)
   () Disagree
   () Strongly Disagre
   
-### TITLE HERE PLEASE
   I feel like my workplace benefits from having people express the dimensions of their identities that are important to them.
   () Strongly Agree
   () Agree
