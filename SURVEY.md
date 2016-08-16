@@ -32,9 +32,9 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
     () 200+ employees
 
 ### Location
-    If you live in the US, please choose your state. |v| Dropdown of States |
 
-    If you live outside of the US, please choose your country. |v| Dropdown of Countries |
+    Please choose your country. |v| Dropdown of Countries |
+    Please choose your state/province/region |v| Dropdown of sub regions |  (based on country)
 
 ### Type of Company
     What type of company do you work for (check all that apply?)
