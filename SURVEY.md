@@ -6,7 +6,7 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
 ## How do you help build the internet?
 
 ### Position
-    What role do you play? (wording)
+    What role(s) do you play? (wording)
     [] Developer
     [] Designer
     [] UX
