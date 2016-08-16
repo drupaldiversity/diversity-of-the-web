@@ -1,7 +1,7 @@
 ## Survey
-A first pass at survey categories and areas about which we want to obtain information.
+Thanks for taking a few minute to help make the web a better place!  The world wide web is perhaps the greatest egalitarian communications platform, ever, and we believe we have a part to play in towards that end.  As a community of professional developers, designers, editors, project managers, open-source contributors, we help create the web and help indviduals and organizations communicate their message.  Who exactly makes up this community of indivudals who are contributing to a more free and open communication medium?  
 
-We need to figure out pagination, order, pacing, and reasonable length, in addition to the questions and answer formats.
+Let us know how you identify yourself, so we can get a better vision of who we are as a whole, and thus how we can leverage our diverse identity.
 
 ## How do you help build the internet?
 
@@ -53,22 +53,21 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
     () Completed master's degree
     () Completed PhD
 
-## Big 8
+## How do you identify?
 
-Have you heard of the "big 8" aspects of diversity? Including this here for consideration of other questions to include if you want to be "fully" comprehensive.
+Turns out, diversity is hard to classify [3].  It's personal, contextual, and depends as much on who you are as who you are around.  Here are some identifiers we're going to consider.
 
-    1. Ability - Mental and/or physical (addressed)
-    2. Age (addressed)
-    3. Ethnicity (addressed)
-    4. Gender (addressed)
-    5. Race (addressed)
-    6. Religion
-    7. Sexual Orientation
-    8. Socio-Economic Status/Class
+    *. Ability - Mental and/or physical
+    *. Age
+    *. Ethnicity
+    *. Gender
+    *. Race
+    *. Religion
+    *. Sexual Orientation
+    *. Socio-Economic Status/Class
+    *. ? / & / Etc.
 
 ### Disability
-Do we want people to share their disability identification? (Yes)
-
     Do you identify as having a disability as defined under the [Americans with Disabilities Act](https://adata.org/faq/what-definition-disability-under-ada)?
     () Yes
         [] Physical
@@ -185,10 +184,17 @@ Do we want people to share their disability identification? (Yes)
     () Upper class
 
 ### Language
-How do we want people to indicate their language?
+
     Choose the language(s) you speak and work with and identify your proficiency
     [___________|v]      [___________|v]
     (list of languages)  (fluency levels)
+
+    add as many as appropriate.
+    
+### ? / & / Etc.
+
+What else do you identify with?  Call out anything we've missed that makes you, well, you!
+    [                   ]
 
     add as many as appropriate.
 
@@ -214,4 +220,7 @@ How do we want people to indicate their language?
     ??? combo box/select many
 
 [1] http://www.isdnetwork.org/what-is-diversity.html
+
 [2] http://www.informationisbeautiful.net/visualizations/diversity-in-tech/
+
+[3] http://drnikki.github.io/2016/08/03/diversity-survey.html
