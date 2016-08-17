@@ -26,7 +26,8 @@ Let us know how you identify yourself, so we can get a better vision of who we a
     () 20+
 
 ### Company Size
-    () Under 20 employees
+    () Under 10 employees
+    () 10 - 20 employees
     () 20 - 50 employees
     () 50 - 100 employees
     () 100 - 200 employees
