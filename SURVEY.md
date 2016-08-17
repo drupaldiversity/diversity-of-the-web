@@ -175,12 +175,14 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 
     Thinking about your childhood, which socio-economic class did you identify with?
     () Lower class
-    () Middle class
+    () Lower middle class
+    () Upper middle class
     () Upper class
 
     Thinking about your current situation, which socio-economic class do you identify with?
     () Lower class
-    () Middle class
+    () Lower middle class
+    () Upper middle class
     () Upper class
 
 ### Language
