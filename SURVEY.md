@@ -18,7 +18,8 @@ Let us know how you identify yourself, so we can get a better vision of who we a
 
 
 ### Years of Experience
-    () 0 - 5
+    () 0 - 1
+    () 2 - 5
     () 6 - 10
     () 11 - 15
     () 16 - 20
