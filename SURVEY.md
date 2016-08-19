@@ -34,7 +34,11 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
 ### Location
 
     Please choose your country. |v| Dropdown of Countries |
-    Please choose your state/province/region |v| Dropdown of sub regions |  (based on country)
+    
+    Please choose area(?  not sure what the best term is)
+    () Urban
+    () Suburban
+    () Rural
 
 ### Type of Company
     What type of company do you work for (check all that apply?)
