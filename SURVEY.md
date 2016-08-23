@@ -102,7 +102,7 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () 65-74
     () 75-84
     () 85+
-    () Decline to state
+    () Prefer not to answer
 
 
 ### Racial Identification
@@ -119,7 +119,7 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     [] Black
     [] Pacific Islander
     [] Other
-    [] Decline
+    [] Prefer not to answer
 
 ### Sexual Orientation
 
@@ -131,7 +131,7 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Queer
     () Asexual
     () Self Identify: _________________
-    () Decline to state  
+    () Prefer not to answer  
 
 ### Gender Identification
     What is your gender identity?
@@ -141,8 +141,8 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Genderqueer
     () Male
     () Female
-    () Decline to state
     [___________] Self-identify
+    () Prefer not to answer
 
 ### Religious Identification
 
