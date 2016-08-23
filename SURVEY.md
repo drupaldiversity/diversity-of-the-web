@@ -54,6 +54,10 @@ Let us know how you identify yourself, so we can get a better vision of who we a
     () Completed college
     () Completed master's degree
     () Completed PhD
+    
+    If you have a degree, did you study a technology-related field?
+    () Yes
+    () No
 
 ## How do you identify?
 
