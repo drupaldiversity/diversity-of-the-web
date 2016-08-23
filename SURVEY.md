@@ -9,11 +9,12 @@ Let us know how you identify yourself, so we can get a better vision of who we a
     What role do you play? (wording)
     [] Developer
     [] Designer
-    [] UX
+    [] UX/UI
     [] Technical/Solutions Architect
     [] Technical Lead
-    [] Content Strategist
+    [] Content Developer/Strategist
     [] QA/Testing
+    [] Product Manager/Owner
     [] Other
 
 
