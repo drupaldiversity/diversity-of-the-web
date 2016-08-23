@@ -76,12 +76,12 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 ### Disability
     Do you identify as having a disability as defined under the [Americans with Disabilities Act](https://adata.org/faq/what-definition-disability-under-ada)?
     () Yes
-        [] Physical
-        [] Mental
-        [] Emotional
         [] Cognitive
+        [] Emotional
         [] Hearing
-        [] Vision
+        [] Mental
+        [] Physical
+        [] Visual
         [] Other
     () No
     () Prefer not to answer
@@ -112,35 +112,34 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () No
 
     With which ethnicity do you identify? (check all that apply)
-
-    [] White
     [] Asian
-    [] Latino
     [] Black
+    [] Latino
     [] Pacific Islander
+    [] White
     [] Other
-    [] Decline
+    [] Decline to state
 
 ### Sexual Orientation
 
     Do you identify with any of the following? 
-    () Straight
+    () Asexual
+    () Bisexual
     () Gay
     () Lesbian
-    () Bisexual
     () Queer
-    () Asexual
+    () Straight
     () Self Identify: _________________
     () Decline to state  
 
 ### Gender Identification
     What is your gender identity?
-    () Intersex
-    () Trans M-F
-    () Trans F-M
-    () Genderqueer
-    () Male
     () Female
+    () Genderqueer
+    () Intersex
+    () Male
+    () Trans F-M
+    () Trans M-F
     () Decline to state
     [___________] Self-identify
 
