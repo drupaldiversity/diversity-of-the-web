@@ -16,6 +16,12 @@ Let us know how you identify yourself, so we can get a better vision of who we a
     [] QA/Testing
     [] Other
 
+### Management/Leadership
+
+Which most accurately describes your role?
+    () I am a formal manager
+    () I am not a manager, though I do hold a leadership role
+    () My role does not involve leadership or management
 
 ### Years of Experience
     () 0 - 1
