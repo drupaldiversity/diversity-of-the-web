@@ -18,14 +18,16 @@ Let us know how you identify yourself, so we can get a better vision of who we a
 
 
 ### Years of Experience
-    () 0 - 5
+    () 0 - 1
+    () 2 - 5
     () 6 - 10
     () 11 - 15
     () 16 - 20
     () 20+
 
 ### Company Size
-    () Under 20 employees
+    () Under 10 employees
+    () 10 - 20 employees
     () 20 - 50 employees
     () 50 - 100 employees
     () 100 - 200 employees
@@ -175,12 +177,14 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 
     Thinking about your childhood, which socio-economic class did you identify with?
     () Lower class
-    () Middle class
+    () Lower middle class
+    () Upper middle class
     () Upper class
 
     Thinking about your current situation, which socio-economic class do you identify with?
     () Lower class
-    () Middle class
+    () Lower middle class
+    () Upper middle class
     () Upper class
 
 ### Language
