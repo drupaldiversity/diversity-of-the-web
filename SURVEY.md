@@ -36,7 +36,7 @@ Let us know how you identify yourself, so we can get a better vision of who we a
 ### Location
     If you live in the US, please choose your state. |v| Dropdown of States |
 
-    If you live outside of the US, please choose your country. |v| Dropdown of Countries |
+    If you live outside the US, please choose your country. |v| Dropdown of Countries |
 
 ### Type of Company
     What type of company do you work for (check all that apply?)
@@ -53,7 +53,7 @@ Let us know how you identify yourself, so we can get a better vision of who we a
     () Some college/technical training
     () Completed college
     () Completed master's degree
-    () Completed PhD
+    () Completed Ph.D
     
     If you have a degree, did you study a technology-related field?
     () Yes
@@ -163,7 +163,7 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Disagree
     () Strongly Disagree
     
-    At work, It's important to me that I feel comfortable expressing my identity.
+    At work, it's important to me that I feel comfortable expressing my identity.
     () Strongly Agree
     () Agree
     () Neutral
@@ -179,13 +179,13 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 
 ### Socio-economic class
 
-    Thinking about your childhood, which socio-economic class did you identify with?
+    Thinking about your childhood, with which socio-economic status/class did you identify ?
     () Lower class
     () Lower middle class
     () Upper middle class
     () Upper class
 
-    Thinking about your current situation, which socio-economic class do you identify with?
+    Thinking about your current situation, with which socio-economic status/class do you identify?
     () Lower class
     () Lower middle class
     () Upper middle class
