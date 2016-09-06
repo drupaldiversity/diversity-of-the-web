@@ -1,4 +1,6 @@
-# Diversity in the Web Development Community
+# Diversity of the Web
+## A discussion about diversity in the web-development community
+
 An initiative to publish information, raw data, and insights on the diversity
 of the web world based on a community-drafted survey, hoping to increase
 visibility about existing under-representation and encourage conversations about
@@ -8,6 +10,10 @@ Authored by the community, at
 https://github.com/drnikki/diversity-survey
 
 ## Goals
+
+Our primary goal is to drive awareness and discussion about diversity and
+inclusivity in the web-development community.  We'll be doing amazing if we get: 
+
 * 10,000 unique responses
 * 1,000 Github stars
 * 100 Collaborators
@@ -26,48 +32,15 @@ etc.  Possible problems: skewing the data with ‘content editors’ or ‘copyw
 ## Timeline
 Here's what we're hoping to do:
 
-* May '16: Organize
-* June '16: Draft and release survey
-* July '16: Wait for results, promote
-* August '16: Collect results, publish, event to analyze
-* September '16: DrupalCon Dublin: Presentation
+* Summer '16: Drafy
+* September '16: Finalize Draft
+* October '16: Release survey
+* November '16: Wait for results, promote
+* December '16: Collect results, publish, event to analyze
 
-## Methods
-* Draft Survey
-* Put Survey structure on github for collaboration
-* Look at similar surveys from government, other industries,
-* Get feedback, particularly on if the questions are good, i.e. not ‘leading’ and questions which are not binary have the right input options
-* Should we model survey structure after existing survey - like census
-* Run Survey, probably for ~ 1 month
-* Collection method, tbd. Google forms can export straight to csv.
-* Publish Results
-* CSVs on github
-* Analyze Results
-* Present at DrupalCon Dublin
-* (possibly) Propose recommendations for Drupal Association
-
-## Potential Allies
+## Allies
 * Pantheon (Nick Stielau)
-* Academic qualitative researchers (Nikki to contact)
-
-## Potential Comparisons / Dimensions
-* Role (PM, Dev, Owner, TPM, etc)
-* Size of company (0-20, 21-50, 51-150?)
-* Web shop, ad agency, internal dev team
-* Vertical: higher-ed, non-profit, tech, media, etc
-* Location
-* Language
-* Religion
-* LGBT
-* Education Background
-* Disabilities
-* Age
-* Relationship status?
-* Children?
-* Does employee retention/tenure correlate to diversity
-* Does management's activity in diversity correlate with employee rentention?
-* Does having a strong mission correct with increased diversity?
-
+* Drupal Diversity and Inclusion (Nikki Stevens)
 
 ## Simple ways to Fail:
 * Not doing it at all
@@ -91,10 +64,6 @@ feedback when a discussion/approach/idea/term is hurtful.  Say 'Oops!' if you
 catch yourself on potentially offensive territory, and 'Ouch!' if you feel
 offended.  Thanks!
 
-## Next Steps:
-* Find survey drafters and reviewers
-* Find organizations that will distribute to their mailing lists
-* June 29, 2pm PST next meeting.
 
 ## References:
 * http://www.informationisbeautiful.net/visualizations/diversity-in-tech/
