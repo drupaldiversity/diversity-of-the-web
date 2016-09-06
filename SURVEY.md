@@ -43,7 +43,7 @@ Which most accurately describes your role?
 ### Location
     If you live in the US, please choose your state. |v| Dropdown of States |
 
-    If you live outside of the US, please choose your country. |v| Dropdown of Countries |
+    If you live outside the US, please choose your country. |v| Dropdown of Countries |
 
 ### Type of Company
     What type of company do you work for (check all that apply?)
@@ -60,7 +60,7 @@ Which most accurately describes your role?
     () Some college/technical training
     () Completed college
     () Completed master's degree
-    () Completed PhD
+    () Completed Ph.D
     
     If you have a degree, did you study a technology-related field?
     () Yes
@@ -169,7 +169,7 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Disagree
     () Strongly Disagree
     
-    At work, It's important to me that I feel comfortable expressing my identity.
+    At work, it's important to me that I feel comfortable expressing my identity.
     () Strongly Agree
     () Agree
     () Neutral
