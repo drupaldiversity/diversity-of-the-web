@@ -9,13 +9,20 @@ Let us know how you identify yourself, so we can get a better vision of who we a
     What role do you play? (wording)
     [] Developer
     [] Designer
-    [] UX
+    [] UX/UI
     [] Technical/Solutions Architect
     [] Technical Lead
-    [] Content Strategist
+    [] Content Developer/Strategist
     [] QA/Testing
+    [] Product Manager/Owner
     [] Other
 
+### Management/Leadership
+
+Which most accurately describes your role?
+    () I am a formal manager
+    () I am not a manager, though I do hold a leadership role
+    () My role does not involve leadership or management
 
 ### Years of Experience
     () 0 - 1
@@ -76,12 +83,12 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 ### Disability
     Do you identify as having a disability as defined under the [Americans with Disabilities Act](https://adata.org/faq/what-definition-disability-under-ada)?
     () Yes
-        [] Physical
-        [] Mental
-        [] Emotional
         [] Cognitive
+        [] Emotional
         [] Hearing
-        [] Vision
+        [] Mental
+        [] Physical
+        [] Visual
         [] Other
     () No
     () Prefer not to answer
@@ -112,37 +119,36 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () No
 
     With which ethnicity do you identify? (check all that apply)
-
-    [] White
     [] Asian
-    [] Latino
     [] Black
+    [] Latino
     [] Pacific Islander
+    [] White
     [] Other
     [] Prefer not to answer
 
 ### Sexual Orientation
 
     Do you identify with any of the following? 
-    () Straight
+    () Asexual
+    () Bisexual
     () Gay
     () Lesbian
-    () Bisexual
     () Queer
-    () Asexual
+    () Straight
     () Self Identify: _________________
-    () Prefer not to answer  
+    () Prefer not to answer
 
 ### Gender Identification
     What is your gender identity?
-    () Intersex
-    () Trans M-F
-    () Trans F-M
-    () Genderqueer
-    () Male
     () Female
-    [___________] Self-identify
+    () Genderqueer
+    () Intersex
+    () Male
+    () Trans F-M
+    () Trans M-F
     () Prefer not to answer
+    [___________] Self-identify
 
 ### Religious Identification
 
@@ -180,13 +186,13 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 ### Socio-economic class
 
     Thinking about your childhood, which socio-economic class did you identify with?
-    () Lower class
+    () Working class
     () Lower middle class
     () Upper middle class
     () Upper class
 
     Thinking about your current situation, which socio-economic class do you identify with?
-    () Lower class
+    () Working class
     () Lower middle class
     () Upper middle class
     () Upper class
