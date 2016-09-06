@@ -6,7 +6,7 @@ Let us know how you identify yourself, so we can get a better vision of who we a
 ## How do you help build the internet?
 
 ### Position
-    What role do you play? (wording)
+    What role do you play?
     [] Developer
     [] Designer
     [] UX/UI
@@ -20,6 +20,7 @@ Let us know how you identify yourself, so we can get a better vision of who we a
 ### Management/Leadership
 
 Which most accurately describes your role?
+    
     () I am a formal manager
     () I am not a manager, though I do hold a leadership role
     () My role does not involve leadership or management
