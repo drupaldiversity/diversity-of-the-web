@@ -115,14 +115,14 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 
 ### Racial Identification
     Do you identify as a person of color?
-
     () Yes
     () No
 
-    With which ethnicity do you identify? (check all that apply)
+    With which racial background(s) do you identify? (check all that apply)
     [] Asian
     [] Black
     [] Latino
+    [] Native American
     [] Pacific Islander
     [] White
     [] Other
