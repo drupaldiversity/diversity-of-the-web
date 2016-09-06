@@ -160,6 +160,28 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Yes
     () No
 
+### Socio-economic class
+
+    Thinking about your childhood, which socio-economic class did you identify with?
+    () Working class
+    () Lower middle class
+    () Upper middle class
+    () Upper class
+
+    Thinking about your current situation, which socio-economic class do you identify with?
+    () Working class
+    () Lower middle class
+    () Upper middle class
+    () Upper class
+
+### Language
+
+    Choose the language(s) you speak and work with and identify your proficiency
+    [___________|v]      [___________|v]
+    (list of languages)  (fluency levels)
+
+    add as many as appropriate.
+
 ### Other facets
 
     At work, I feel comfortable expressing the aspects of my identity that are important to me.
@@ -182,28 +204,6 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Neutral
     () Disagree
     () Strongly Disagree
-
-### Socio-economic class
-
-    Thinking about your childhood, which socio-economic class did you identify with?
-    () Working class
-    () Lower middle class
-    () Upper middle class
-    () Upper class
-
-    Thinking about your current situation, which socio-economic class do you identify with?
-    () Working class
-    () Lower middle class
-    () Upper middle class
-    () Upper class
-
-### Language
-
-    Choose the language(s) you speak and work with and identify your proficiency
-    [___________|v]      [___________|v]
-    (list of languages)  (fluency levels)
-
-    add as many as appropriate.
     
 ### ? / & / Etc.
 
