@@ -6,7 +6,7 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
 ## How do you help build the internet?
 
 ### Position
-    What role(s) do you play? (wording)
+    What role(s) do you play?
     [] Developer
     [] Designer
     [] UX
@@ -35,7 +35,7 @@ We need to figure out pagination, order, pacing, and reasonable length, in addit
 
     Please choose your country. |v| Dropdown of Countries |
     
-    Please choose area(?  not sure what the best term is)
+    Which word best describes the area where you live and work?
     () Urban
     () Suburban
     () Rural
