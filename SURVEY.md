@@ -1,12 +1,12 @@
 ## Survey
-Thanks for taking a few minute to help make the web a better place!  The world wide web is perhaps the greatest egalitarian communications platform, ever, and we believe we have a part to play in towards that end.  As a community of professional developers, designers, editors, project managers, open-source contributors, we help create the web and help indviduals and organizations communicate their message.  Who exactly makes up this community of indivudals who are contributing to a more free and open communication medium?  
+Thanks for taking a few minute to help make the web a better place!  The world wide web is perhaps the greatest egalitarian communications platform, ever, and we believe we have a part to play in towards that end.  As a community of professional developers, designers, editors, project managers, open-source contributors, we help create the web and help indviduals and organizations communicate their message.  Who exactly makes up this community of indivudals who are contributing to a more free and open communication medium?
 
 Let us know how you identify yourself, so we can get a better vision of who we are as a whole, and thus how we can leverage our diverse identity.
 
 ## How do you help build the internet?
 
 ### Position
-    What role do you play?
+    What role(s) do you play?
     [] Developer
     [] Designer
     [] UX/UI
@@ -20,7 +20,7 @@ Let us know how you identify yourself, so we can get a better vision of who we a
 ### Management/Leadership
 
 Which most accurately describes your role?
-    
+
     () I am a formal manager
     () I am not a manager, though I do hold a leadership role
     () My role does not involve leadership or management
@@ -42,9 +42,13 @@ Which most accurately describes your role?
     () 200+ employees
 
 ### Location
-    If you live in the US, please choose your state. |v| Dropdown of States |
 
-    If you live outside the US, please choose your country. |v| Dropdown of Countries |
+    Please choose your country. |v| Dropdown of Countries |
+
+    Which word best describes the area where you live and work?
+    () Urban
+    () Suburban
+    () Rural
 
 ### Type of Company
     What type of company do you work for (check all that apply?)
@@ -62,7 +66,7 @@ Which most accurately describes your role?
     () Completed college
     () Completed master's degree
     () Completed Ph.D
-    
+
     If you have a degree, did you study a technology-related field?
     () Yes
     () No
@@ -205,7 +209,7 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Neutral
     () Disagree
     () Strongly Disagree
-    
+
 ### ? / & / Etc.
 
 What else do you identify with?  Call out anything we've missed that makes you, well, you!
