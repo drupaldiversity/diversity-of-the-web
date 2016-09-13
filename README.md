@@ -7,3 +7,9 @@ visibility about existing under-representation and encourage conversations about
 increasing diversity.
 
 Authored by the community, at https://drnikki.github.com/diversity-survey
+
+## Content
+
+SURVEY.md: The proposed survey questions
+CONTRIBUTORS: list of survey contributors
+README.md: This readme
