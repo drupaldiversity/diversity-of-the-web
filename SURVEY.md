@@ -87,16 +87,15 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 
 ### Disability
     Do you identify as having a disability as defined under the [Americans with Disabilities Act](https://adata.org/faq/what-definition-disability-under-ada)?
-    () Yes
-        [] Cognitive
-        [] Emotional
-        [] Hearing
-        [] Mental
-        [] Physical
-        [] Visual
-        [] Other
-    () No
-    () Prefer not to answer
+    [] Yes, Cognitive
+    [] Yes, Emotional
+    [] Yes, Hearing
+    [] Yes, Mental
+    [] Yes, Physical
+    [] Yes, Visual
+    [] Yes, Other
+    [] No
+    [] Prefer not to answer
 
     Does your disability affect how you work?
     () Yes
@@ -135,14 +134,14 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 ### Sexual Orientation
 
     Do you identify with any of the following? 
-    () Asexual
-    () Bisexual
-    () Gay
-    () Lesbian
-    () Queer
-    () Straight
-    () Self Identify: _________________
-    () Prefer not to answer
+    [] Asexual
+    [] Bisexual
+    [] Gay
+    [] Lesbian
+    [] Queer
+    [] Straight
+    [] Self Identify: _________________
+    [] Prefer not to answer
 
 ### Gender Identification
     What is your gender identity?
@@ -161,9 +160,10 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Yes
     () No
 
-    If yes, do you identify as a minority because of your religion?
+    If you identify as a religions person, do you identify as a minority because of your religion?
     () Yes
     () No
+    () N/A
 
 ### Socio-economic class
 
