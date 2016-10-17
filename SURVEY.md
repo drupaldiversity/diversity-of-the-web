@@ -160,7 +160,7 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Yes
     () No
 
-    If you identify as a religions person, do you identify as a minority because of your religion?
+    If you identify as a religious person, do you identify as a minority because of your religion?
     () Yes
     () No
     () N/A
