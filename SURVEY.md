@@ -43,7 +43,7 @@ Which most accurately describes your role?
 
 ### Location
 
-    Please choose your country. |v| Dropdown of Countries |
+    Please choose your country of residence. |v| Dropdown of Countries |
 
     Which word best describes the area where you live and work?
     () Urban
