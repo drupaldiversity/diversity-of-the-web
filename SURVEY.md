@@ -6,15 +6,15 @@ Let us know how you identify yourself, so we can get a better vision of who we a
 ## How do you help build the internet?
 
 ### Position
-    What role(s) do you play?
-    [] Developer
+    What professional role(s) do you play?
+    [] Content Developer/Strategist
     [] Designer
-    [] UX/UI
+    [] Developer
+    [] Product Manager/Owner
+    [] QA/Testing
     [] Technical/Solutions Architect
     [] Technical Lead
-    [] Content Developer/Strategist
-    [] QA/Testing
-    [] Product Manager/Owner
+    [] UX/UI
     [] Other
 
 ### Management/Leadership
@@ -46,17 +46,17 @@ Which most accurately describes your role?
     Please choose your country of residence. |v| Dropdown of Countries |
 
     Which word best describes the area where you live and work?
-    () Urban
-    () Suburban
     () Rural
+    () Suburban
+    () Urban
 
 ### Type of Company
     What type of company do you work for (check all that apply?)
+    [] Freelancer
     [] Web Agency / Development Shop
     [] Digital Agency
     [] Advertising Agency
     [] Non-agency organization
-    [] Freelancer
     [] Other
 
 ### Education Level
@@ -133,7 +133,7 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 
 ### Sexual Orientation
 
-    Do you identify with any of the following? 
+    Do you identify with any of the following?
     [] Asexual
     [] Bisexual
     [] Gay
@@ -144,7 +144,12 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     [] Prefer not to answer
 
 ### Gender Identification
-    What is your gender identity?
+
+    Do you consider yourself to be transgender/gender non-conforming?
+    () Yes
+    () No
+
+    What is your primary gender identity today?
     () Female
     () Genderqueer
     () Intersex
@@ -156,11 +161,11 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 
 ### Religious Identification
 
-    Do you identify as a religious person?
+    Do you practice, worship, or observe a particular religion (or agnostic/atheist theology)?
     () Yes
     () No
 
-    If you identify as a religious person, do you identify as a minority because of your religion?
+    Do you identify as a minority because of your religion (or lack thereof)?
     () Yes
     () No
     () N/A
@@ -195,14 +200,14 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Neutral
     () Disagree
     () Strongly Disagree
-    
+
     At work, it's important to me that I feel comfortable expressing my identity.
     () Strongly Agree
     () Agree
     () Neutral
     () Disagree
     () Strongly Disagree
-    
+
     Encouraging people to express any/all aspects of their identities benefits my company.
     () Strongly Agree
     () Agree
