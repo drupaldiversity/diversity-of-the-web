@@ -133,7 +133,7 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 
 ### Sexual Orientation
 
-    Do you identify with any of the following? 
+    Do you identify with any of the following?
     [] Asexual
     [] Bisexual
     [] Gay
@@ -156,11 +156,11 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
 
 ### Religious Identification
 
-    Do you identify as a religious person?
+    Do you practice, worship, or observe a particular religion (or agnostic/atheist theology)?
     () Yes
     () No
 
-    If you identify as a religious person, do you identify as a minority because of your religion?
+    Do you identify as a minority because of your religion (or lack thereof)?
     () Yes
     () No
     () N/A
@@ -195,14 +195,14 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     () Neutral
     () Disagree
     () Strongly Disagree
-    
+
     At work, it's important to me that I feel comfortable expressing my identity.
     () Strongly Agree
     () Agree
     () Neutral
     () Disagree
     () Strongly Disagree
-    
+
     Encouraging people to express any/all aspects of their identities benefits my company.
     () Strongly Agree
     () Agree
