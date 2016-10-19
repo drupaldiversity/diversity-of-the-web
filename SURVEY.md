@@ -6,15 +6,15 @@ Let us know how you identify yourself, so we can get a better vision of who we a
 ## How do you help build the internet?
 
 ### Position
-    What role(s) do you play?
-    [] Developer
+    What professional role(s) do you play?
+    [] Content Developer/Strategist
     [] Designer
-    [] UX/UI
+    [] Developer
+    [] Product Manager/Owner
+    [] QA/Testing
     [] Technical/Solutions Architect
     [] Technical Lead
-    [] Content Developer/Strategist
-    [] QA/Testing
-    [] Product Manager/Owner
+    [] UX/UI
     [] Other
 
 ### Management/Leadership
@@ -46,17 +46,17 @@ Which most accurately describes your role?
     Please choose your country of residence. |v| Dropdown of Countries |
 
     Which word best describes the area where you live and work?
-    () Urban
-    () Suburban
     () Rural
+    () Suburban
+    () Urban
 
 ### Type of Company
     What type of company do you work for (check all that apply?)
+    [] Freelancer
     [] Web Agency / Development Shop
     [] Digital Agency
     [] Advertising Agency
     [] Non-agency organization
-    [] Freelancer
     [] Other
 
 ### Education Level
