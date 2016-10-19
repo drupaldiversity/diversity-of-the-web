@@ -144,7 +144,12 @@ Turns out, diversity is hard to classify [3].  It's personal, contextual, and de
     [] Prefer not to answer
 
 ### Gender Identification
-    What is your gender identity?
+
+    Do you consider yourself to be transgender/gender non-conforming?
+    () Yes
+    () No
+
+    What is your primary gender identity today?
     () Female
     () Genderqueer
     () Intersex
