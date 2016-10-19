@@ -5,10 +5,9 @@ In preparation for BADCamp and the collection of data, we're freezing all contri
 
 ## A discussion about diversity in the web-development community
 
-An initiative to publish information, raw data, and insights on the diversity
-of the web world based on a community-drafted survey, hoping to increase
-visibility about existing under-representation and encourage conversations about
-increasing diversity.
+An initiative to survey, understand, and evangelize the diversity of the web
+development community. Our goals is to increase visibility about existing 
+under-representation and encourage conversations about diversity and inclusion.
 
 Authored by the community, at https://drnikki.github.com/diversity-survey
 
