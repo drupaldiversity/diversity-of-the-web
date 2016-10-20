@@ -3,7 +3,7 @@
 ![Diversity Logo](https://raw.githubusercontent.com/drnikki/diversity-of-the-web/master/images/diversity_of_the_web_logo.png)
 
 ## Update
-The survey is live at http://tr.im/SECRET!
+The survey is live at http://tr.im/diversity!
 
 Help us promote!
 
