@@ -9,19 +9,19 @@ Help us promote!
 
 > Are you the only _____ ________ web developer?  Help find out and celebrate our diverse community at http://tr.im/diversity
 
-[Retweet](https://twitter.com/intent/retweet?tweet_id=XXXXXX)
+[Retweet](https://twitter.com/intent/retweet?tweet_id=789187290245369856)
 
 
 
 > Be represented. A community-authored census of diversity and inclusion in the web development community: http://tr.im/diversity
 
-[Retweet](https://twitter.com/intent/retweet?tweet_id=XXXXXX)
+[Retweet](https://twitter.com/intent/retweet?tweet_id=789187486903697408)
 
 
 
 > Diverse groups build better.  Help us celebrate the diversity of the web development community.  Survey @ http://tr.im/diversity
 
-[Retweet](https://twitter.com/intent/retweet?tweet_id=XXXXXX)
+[Retweet](https://twitter.com/intent/retweet?tweet_id=789187612242083840)
 
 
 
